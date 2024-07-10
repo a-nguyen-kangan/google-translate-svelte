@@ -7,7 +7,7 @@
     import { mapResults } from '$lib/helpers';
 
     let translation: string = '';
-    let fact: string = 'hello';
+    let fact: string = 'hello world!';
     export let form: ActionData;
 
 
